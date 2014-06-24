@@ -1,18 +1,18 @@
 {
-  "name": "cube",
+  "name": "cubeq",
   "version": "0.2.12",
-  "description": "A system for analyzing time series data using MongoDB and Node.",
+  "description": "Base on square'work, Cube - a system for analyzing time series data using MongoDB and Node, with some modifications",
   "keywords": [
     "time series"
   ],
-  "homepage": "http://square.github.com/cube/",
+  "homepage": "https://github.com/tam-vo/cube",
   "author": {
-    "name": "Mike Bostock",
-    "url": "http://bost.ocks.org/mike"
+    "name": "Tam Vo",
+    "url": "https://github.com/tam-vo/"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/square/cube.git"
+    "url": "https://github.com/tam-vo/cube.git"
   },
   "main": "./lib/cube",
   "dependencies": {
