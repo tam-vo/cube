@@ -1,6 +1,6 @@
 {
   "name": "cubeq",
-  "version": "0.2.12",
+  "version": "0.2.13",
   "description": "Base on square'work, Cube - a system for analyzing time series data using MongoDB and Node, with some modifications",
   "keywords": [
     "time series"
