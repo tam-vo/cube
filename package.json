@@ -1,6 +1,6 @@
 {
   "name": "cubeq",
-  "version": "0.2.17",
+  "version": "0.2.18",
   "description": "Base on square'work, Cube - a system for analyzing time series data using MongoDB and Node, with some modifications",
   "keywords": [
     "time series"
@@ -21,6 +21,6 @@
     "pegjs": "0.7.0",
     "vows": "0.7.0",
     "websocket": "1.0.8",
-    "websocket-server": "1.4.04"
+    "node-websocket-server": "0.0.1"
   }
 }
